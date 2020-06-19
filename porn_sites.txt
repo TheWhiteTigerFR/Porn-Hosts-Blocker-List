@@ -31468,6 +31468,8 @@
 127.0.0.1       www.teensporn.fun
 127.0.0.1       www.teenpornplay.com
 127.0.0.1       www.pakistan-xxx.com
+127.0.0.1       365porn.org
+127.0.0.1       www.365porn.org
 
 # Look up for the porn_ads file for porn-ads only domains.
 # That's all for now.
